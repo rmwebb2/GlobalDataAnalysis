@@ -23,6 +23,9 @@ The dataset includes the following columns:
 - Exploring how sports funding relates to student enrollment, graduation rates, and other institutional data.
 - Potentially building a predictive model to determine how sports funding impacts academic success.
 
+## Collegiate Sports JSON File
+[JSON File Here 🐈‍⬛:](https://raw.githubusercontent.com/rmwebb2/AdvDataAnalytics/main/sportsjson.json)
+
 # Global Country Information 
 
 **The following HTML document utilized R for a different dataset that investigated global country information including CO2 Emissions, GDP, birth rates, etc.**
