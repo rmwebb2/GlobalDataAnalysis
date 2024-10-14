@@ -31,3 +31,7 @@ The dataset includes the following columns:
 **The following HTML document utilized R for a different dataset that investigated global country information including CO2 Emissions, GDP, birth rates, etc.**
 
 [View Full Project Report Here 😸](https://rpubs.com/rmwebb23/1216944)
+
+## World Data - Top Ten Countries with Highest GDP and CO2 Emissions using Javascript
+
+[Script Here 🐈](https://github.com/rmwebb2/D3andJavascript-WorldData/blob/main/index.html)
