@@ -35,3 +35,6 @@ The dataset includes the following columns:
 ## World Data - Top Ten Countries with Highest GDP and CO2 Emissions using Javascript
 
 [Script Here 🐈](https://github.com/rmwebb2/D3andJavascript-WorldData/blob/main/index.html)
+
+## Check out my Colab Notebook :-)
+[View Global Data Analysis Colab Notebook Here :octocat:](https://colab.research.google.com/drive/1mD9jqPZF9q61eljjoSBkYi9rsokc5dXw?usp=sharing)
